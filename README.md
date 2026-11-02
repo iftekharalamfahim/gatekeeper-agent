@@ -6,14 +6,16 @@
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-required-2496ED?logo=docker&logoColor=white)
+[![arXiv](https://img.shields.io/badge/arXiv-2610.40753-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2610.40753)
 ![Platform](https://img.shields.io/badge/platform-linux%20x86--64-lightgrey?logo=linux&logoColor=white)
+![License](https://img.shields.io/badge/license-Apache--2.0-blue)
 
 </div>
 
 ## Paper
 
 **"Shall We Approve?" Consequence-Aware Approval for Autonomous Coding Agents**<br>
-arXiv: [https://arxiv.org/abs/XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX)
+arXiv: [https://arxiv.org/abs/2610.40753](https://arxiv.org/abs/2610.40753)
 
 ## Overview
 
@@ -127,10 +129,12 @@ We thank the authors of the following works, which inspired this project:
 ## Citation
 
 ```bibtex
-@article{wu2026shall,
-  title   = {``Shall We Approve?'' Consequence-Aware Approval for Autonomous Coding Agents},
-  author  = {Wu, Weiheng and Chen, Junkai and Sun, Zhensu and Shi, Jieke and Lyu, Yunbo and Lo, David},
-  journal = {arXiv preprint arXiv:XXXX.XXXXX},
-  year    = {2026}
+@misc{wu2026shall,
+  author = {Weiheng Wu and Junkai Chen and Zhensu Sun and Jieke Shi and Yunbo Lyu and David Lo},
+  title = {``Shall We Approve?'' Consequence-Aware Approval for Autonomous Coding Agents},
+  year = {2026},
+  eprint = {2610.40753},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.40753}
 }
 ```
