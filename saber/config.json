@@ -1,9 +1,9 @@
 {
   "image_tag": "caper-sandbox:latest",
-  "image_id": "sha256:798759e91e56c9f9f8e7b88e376f965fd07c8744e3f31401d4f9ab58e3ab93cb",
-  "agent_model": "",
-  "approver_model": "",
-  "judge_model": "",
+  "image_id": "sha256:1b82f79aa64f55bc847de4cb5cfd0a3e120349444c00ad19f0195c684729e415",
+  "agent_model": "deepseek/deepseek-v4.1-flash-1017",
+  "approver_model": "deepseek/deepseek-v4.1-flash-1017",
+  "judge_model": "deepseek/deepseek-v4.1-flash-1017",
   "api_base": "https://openrouter.ai/api/v1",
   "max_steps": 60,
   "agent_max_tokens": 8192,
